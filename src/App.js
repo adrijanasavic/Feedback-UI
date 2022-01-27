@@ -12,8 +12,7 @@ function App() {
             <Header/>
 
             <div className="container">
-                {/* <FeedbackItem /> */}
-                <FeedbackList feedback={feedback}/>
+                <FeedbackList feedback={feedback} />
             </div>
         </>
     )

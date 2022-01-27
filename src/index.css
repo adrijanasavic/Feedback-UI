@@ -5,11 +5,6 @@
             padding: 0;
         }
         
-        .active {
-            background: #202142;
-            color: red;
-        }
-        
         body {
             font-family: 'Poppins', sans-serif;
             background-color: #e237c6;
